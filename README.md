@@ -120,3 +120,6 @@ npm run seedDb
 - [ ] check if upload is working (using graphql-yoga?)
 - [x] evaluate middleware 
 - [ ] ignore Posts and Comments by blacklisted Users
+
+Livechat for all interested coders:
+https://discordapp.com/invite/6ub73U3 
